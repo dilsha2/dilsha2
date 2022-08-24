@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilsha Madushan Prasanna</h1>
-<h3 align="center">A designer and developer from Sri Lanka</h3>
+<h3 align="center">A Designer and Developer from Sri Lanka</h3>
 
 <div align="center"> 
   
