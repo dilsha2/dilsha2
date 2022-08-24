@@ -1,3 +1,9 @@
+<!-- [![MasterHead]https://c.tenor.com/IfI3QhJDswEAAAAC/welcome-banner.gif)](https://github.com/dilsha2) -->
+
+<div id="header" align="center">
+  <img src="https://c.tenor.com/IfI3QhJDswEAAAAC/welcome-banner.gif" width="1000" height="200"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Dilsha Madushan Prasanna</h1>
 <h3 align="center">A Designer and Developer from Sri Lanka</h3>
 
@@ -10,7 +16,7 @@
 
 - 🌱 I’m currently learning ****IJSE****
 
-- 👨‍💻 All of my projects are available at [https://github.com/dilsha2](https://github.com/dilsha2)
+- 👨‍💻 All of my projects are available at [Click Me!](https://github.com/dilsha2?tab=repositories)
 
 - 💬 Ask me about ****Anything****
 
