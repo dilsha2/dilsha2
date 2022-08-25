@@ -11,6 +11,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&size=25&duration=4000&color=13F700&background=4632a8&center=true&vCenter=true&width=600&lines=I'm++Full++Stack++developer++From++Sri++Lanka;Software+Designer;Developer;UI%2FUX++Designer;)](https://git.io/typing-svg)
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dilsha2&label=Profile%20views&color=0e75b6&style=flat" alt="dilsha2" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dilshaprasanna" target="blank"><img src="https://img.shields.io/twitter/follow/dilshaprasanna?logo=twitter&style=for-the-badge" alt="dilshaprasanna" /></a> </p>
 
