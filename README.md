@@ -1,7 +1,7 @@
 <!-- [![MasterHead]https://c.tenor.com/IfI3QhJDswEAAAAC/welcome-banner.gif)](https://github.com/dilsha2) -->
 
 <div id="header" align="center">
-  <img src="https://c.tenor.com/IfI3QhJDswEAAAAC/welcome-banner.gif" width="700" height="200"/>
+  <img src="https://c.tenor.com/IfI3QhJDswEAAAAC/welcome-banner.gif" width="750" height="200"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Dilsha Madushan Prasanna</h1>
